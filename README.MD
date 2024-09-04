@@ -10,7 +10,7 @@ In this assignment the following was covered:
 
 <b>Clone the repository</b><br>
 To gain access to the repository, clone it in your machine.
-Details of each file are described below.
+Details of each function are described below.<br> 
 
 1. <b>add_numbers</b>
 The <strong>add_numbers</strong> function in the function file, takes in two parameters and returns the sum
