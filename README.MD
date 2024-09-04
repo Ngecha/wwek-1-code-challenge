@@ -8,7 +8,7 @@ In this assignment the following was covered:
 5. Sets, Dictionaries
 6. Object-Oriented Programming
 
-<b>Clone the repository</b>
+<b>Clone the repository</b><br>
 To gain access to the repository, clone it in your machine.
 Details of each file are described below.
 
