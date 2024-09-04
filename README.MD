@@ -23,7 +23,7 @@ returns True if the number is even, and False otherwise.
 The function <strong>reverse_string</strong> in the function file, takes a string text as input and 
 returns the reversed version of that string.
 
-4. <b>>count_vowels</b>
+4. <b>count_vowels</b>
 The function <strong>count_vowels</strong> in the function file, takes a string text as input and 
 returns the count of vowels (a, e, i, o, u) in the string. Ignore case sensitivity.
 
